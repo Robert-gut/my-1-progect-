@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'LatoB';
+    src: url('../fonts/Lato-Bold.woff2') format('woff2'),
+        url('../fonts/Lato-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Magra';
+    src: url('../fonts/Magra-Bold.woff2') format('woff2'),
+        url('../fonts/Magra-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LatoR';
+    src: url('../fonts/Lato-Regular.woff2') format('woff2'),
+        url('../fonts/Lato-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RammettoOne';
+    src: url('../fonts/RammettoOne-Regular.woff2') format('woff2'),
+        url('../fonts/RammettoOne-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Regular.woff2') format('woff2'),
+        url('../fonts/Roboto-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('../fonts/Quicksand-Bold.woff2') format('woff2'),
+        url('../fonts/Quicksand-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

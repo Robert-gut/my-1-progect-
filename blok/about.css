@@ -1,0 +1,74 @@
+.bg-name{
+     background-color: #c8c10d;
+}
+.bg-name h3{
+    color: #fff;
+    padding: 30px;
+    font-family: 'latoR';
+    font-size: 30px;
+    text-align: center;
+}
+
+.img_baner_about{
+    width: 100%;
+}
+
+section article{
+    height: 600px;
+    width: 290px;
+    background-color: #efedee;
+    margin-bottom: 100px;
+    margin-right: 40px;
+    text-align: center;
+    float: left;
+}
+
+section article h4{
+    color: #cb3362;
+    font-family: 'LatoR';
+    font-size: 24px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+section article p{
+    color: #7b6767;
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 40px;
+}
+
+section article p span{
+    color: #c8c10d;
+    text-decoration: underline;
+}
+
+main ul li{
+    margin-top: 40px;
+}
+
+main ul li h4{
+    color: #cb3362;
+    font-family: 'LatoR';
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+
+main ul li p{
+    color: #7b6767;
+    font-family: 'Roboto';
+    font-size: 14px;
+    margin-bottom: 40px;
+}
+
+main ul li p span{
+    color: #c8c10d;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
